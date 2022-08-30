@@ -5,4 +5,6 @@ public class Payment {
     // payment created
 
     // Payment updated
+
+    // payment completed
 }
